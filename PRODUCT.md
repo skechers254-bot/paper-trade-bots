@@ -24,7 +24,7 @@ Users review a market, inspect simulated positions and activity, and start or pa
 
 ## Capabilities and Constraints
 
-Initial scope is a static web application with local demo state. Prices, balances, and bot performance are synthetic. No brokerage connection, live market feed, real-money execution, or investment advice is provided. Hosting provider, production data source, and any future live-trading scope are undecided.
+Initial scope is a static web application hosted on GitHub Pages, with demo state stored in the local browser. Prices, balances, and bot performance are synthetic. No brokerage connection, live market feed, real-money execution, or investment advice is provided. A production data source and any future live-trading scope are undecided.
 
 ## Evidence on Hand
 

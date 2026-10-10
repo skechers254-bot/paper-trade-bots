@@ -2,6 +2,8 @@
 
 Signal Desk is a static paper-trading demo with a synthetic market board, a local demo portfolio, and sample strategy bots.
 
+[Open the live demo](https://skechers254-bot.github.io/paper-trade-bots/).
+
 ## Run locally
 
 Open `index.html` in a browser, or serve this folder with any static web server. No package installation or build step is required.
@@ -18,4 +20,4 @@ Use **Reset demo data** in the account area to clear the local demo session.
 
 ## Publish with GitHub Pages
 
-The included workflow deploys the static app when changes are pushed to `main`. Enable GitHub Pages for the repository with **GitHub Actions** as its build and deployment source. The app does not need secrets or environment variables.
+The included workflow deploys the static app when changes are pushed to `main`. GitHub Pages is enabled with **GitHub Actions** as its deployment source. The app does not need secrets or environment variables.
